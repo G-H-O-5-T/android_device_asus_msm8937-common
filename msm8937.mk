@@ -124,7 +124,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.device@1.0_vendor \
     libmmjpeg_interface \
     libmm-qcamera \
-    android.frameworks.displayservice@1.0
+    android.frameworks.displayservice@1.0 \
+    libstdc++.vendor
 
 # Display
 PRODUCT_PACKAGES += \
